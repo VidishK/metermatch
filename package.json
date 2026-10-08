@@ -16,7 +16,7 @@
     "@aws-sdk/lib-dynamodb": "^3.637.0",
     "jose": "^5.9.2",
     "lucide-react": "^0.439.0",
-    "next": "14.2.5",
+    "next": "15.5.27",
     "pdfjs-dist": "4.6.82",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
