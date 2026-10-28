@@ -9,3 +9,9 @@ __pycache__/
 .vercel
 *.tsbuildinfo
 next-env.d.ts
+
+# Never commit production or development secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
